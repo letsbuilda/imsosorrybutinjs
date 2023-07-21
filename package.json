@@ -1,6 +1,6 @@
 {
   "name": "@letsbuilda/imsosorrybutinjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sometimes it can be necessary to call upon the ancient arts... But in JS!",
   "main": "./src/index.js",
   "scripts": {
