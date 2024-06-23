@@ -3,6 +3,9 @@
   "version": "1.0.4",
   "description": "Sometimes it can be necessary to call upon the ancient arts... But in JS!",
   "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
   "scripts": {
     "test": "jest"
   },
