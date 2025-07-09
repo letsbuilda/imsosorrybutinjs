@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/letsbuilda/imsosorrybutinjs#readme",
   "devDependencies": {
-    "@types/jest": "^29.5.12",
-    "jest": "^29.7.0"
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.3"
   }
 }
